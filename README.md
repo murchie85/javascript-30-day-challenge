@@ -1,5 +1,9 @@
 # javascript-30-day-challenge
 
+![30day](https://javascript30.com/images/JS3-social-share.png)
+
+This is my progress with hte javascript 30day challenge - more to come but definitey check out the Challenge course at [J30](https://javascript30.com/)
+
 ## DrumKit
 * a series of letters in boxes displayed using CSS
 * linked to soundclips in a sound folder using javascript 
